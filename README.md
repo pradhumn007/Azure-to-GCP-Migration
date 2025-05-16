@@ -1,4 +1,4 @@
-![Screenshot (7)](https://github.com/user-attachments/assets/7712c4ad-5289-4f2d-b673-676bbad79ef1)# Azure-to-GCP-Migration
+# Azure-to-GCP-Migration
 This repository provides a comprehensive, step-by-step guide for migrating virtual machines from Microsoft Azure to Google Cloud. It covers the entire process, from configuring the environment in Azure to executing the migration and ensuring a seamless transition to Google Cloud. The guide is designed to help users manage the migration efficiently while maintaining system integrity and minimizing downtime.
 
 ## Prerequisites
